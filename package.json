@@ -5,9 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node bacend/server",
-    "server": "nodeman  bacend/server",
-    "client": "npm start --prefix proshop"
+    "start": "node server.js",
   },
   "keywords": [],
   "author": "",
